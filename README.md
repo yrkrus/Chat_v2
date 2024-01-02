@@ -2,4 +2,4 @@
 
 обновлены классы User, Chat - переделаны private члены в struct \
 добавлен файл *.cpp константы \
-добавлен STL vector \
+добавлен STL vector 
